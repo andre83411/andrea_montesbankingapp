@@ -30,7 +30,7 @@ To get started with Bad Bank, follow these steps:
 
 ## Preview
 
-![Alt Text](./preview.mp4)
+![PREVIEW](./preview.gif)
 
 ## Technology Used
 Bad Bank is built using the following technologies:
