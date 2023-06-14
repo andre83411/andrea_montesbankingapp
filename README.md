@@ -28,8 +28,9 @@ To get started with Bad Bank, follow these steps:
 
 5. Open your web browser and visit `http://localhost:3000` to access Bad Bank.
 
-## Screenshots
-Include relevant screenshots or GIFs showcasing the Bad Bank application in action.
+## Preview
+
+![Alt Text](./preview.mp4)
 
 ## Technology Used
 Bad Bank is built using the following technologies:
