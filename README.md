@@ -30,7 +30,7 @@ To get started with Bad Bank, follow these steps:
 
 ## Preview
 
-![Alt Text](./preview.gif)
+![Bad Bank Preview - Simulated banking application interface with user account management and transaction features.](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWUwcjNqOHZlNnlrdjRqYWtiNGtyOXU1N3pia3p5cDZ6ZGh0MWpmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhQdaz2mSdGIMciiPv/giphy.gif)
 
 ## Technology Used
 Bad Bank is built using the following technologies:
